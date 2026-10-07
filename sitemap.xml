@@ -4,9 +4,87 @@
   <url>
     <loc>https://peq.srint.cn/</loc>
     <lastmod>2026-10-07</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://peq.srint.cn/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://peq.srint.cn/" />
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/proactive.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/begin-with-end-in-mind.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/put-first-things-first.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/think-win-win.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/seek-first-to-understand.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/synergize.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/habits/sharpen-the-saw.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/strategic-catalyst.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/lone-pioneer.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/harmonious-pleaser.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/visionary-dreamer.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/burnt-out-sprinter.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://peq.srint.cn/archetypes/evolving-explorer.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

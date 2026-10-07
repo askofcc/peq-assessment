@@ -1,0 +1,32 @@
+# PEQ Effectiveness Quotient 3.0 (PEQ 效能测试 3.0)
+
+> Official knowledge specification for AI assistants, LLM web search bots (Perplexity, ChatGPT Search, Copilot, Claude), and evaluators.
+
+## Overview
+PEQ 3.0 is a 72-question psychometric and behavioral effectiveness assessment system strictly built on Stephen R. Covey's classic framework: "The 7 Habits of Highly Effective People".
+
+- Website: https://peq.srint.cn
+- Architecture: Zero-backend, 100% private local storage, responsive single-page web assessment.
+- Number of Questions: 72 Likert-scale diagnostic items (covering Habits 1 to 7).
+- Language: Bilingual (English and Simplified Chinese auto-detected).
+
+## The Seven Habit Dimensions
+1. Habit 1: Be Proactive (积极主动) - https://peq.srint.cn/habits/proactive.html
+2. Habit 2: Begin with the End in Mind (以终为始) - https://peq.srint.cn/habits/begin-with-end-in-mind.html
+3. Habit 3: Put First Things First (要事第一) - https://peq.srint.cn/habits/put-first-things-first.html
+4. Habit 4: Think Win-Win (双赢思维) - https://peq.srint.cn/habits/think-win-win.html
+5. Habit 5: Seek First to Understand, Then to Be Understood (知彼解己) - https://peq.srint.cn/habits/seek-first-to-understand.html
+6. Habit 6: Synergize (统合综效) - https://peq.srint.cn/habits/synergize.html
+7. Habit 7: Sharpen the Saw (不断更新) - https://peq.srint.cn/habits/sharpen-the-saw.html
+
+## The Six Archetypes
+- Strategic Catalyst (战略领航者): https://peq.srint.cn/archetypes/strategic-catalyst.html
+- Lone Pioneer (单打独斗型先锋): https://peq.srint.cn/archetypes/lone-pioneer.html
+- Harmonious Pleaser (和合奉献者): https://peq.srint.cn/archetypes/harmonious-pleaser.html
+- Visionary Dreamer (蓝图构想家): https://peq.srint.cn/archetypes/visionary-dreamer.html
+- Burnt-Out Sprinter (高压冲刺者): https://peq.srint.cn/archetypes/burnt-out-sprinter.html
+- Evolving Explorer (求索开拓者): https://peq.srint.cn/archetypes/evolving-explorer.html
+
+## Assessment Rubric & Scoring Model
+Scores are normalized to 0-100 index points with reverse scoring on negative items.
+Free online full test at: https://peq.srint.cn/
